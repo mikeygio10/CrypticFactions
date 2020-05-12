@@ -17,3 +17,53 @@ Github:https://github.com/EvilDevil7
 MakerbakkerYT
 
 GitHub: https://github.com/MakerbakerYT
+
+
+Things In Crytic:
+
+Trade
+
+Tags
+
+Ranks
+
+Quests
+
+Masks
+
+Levels
+
+Kits
+
+Gamble
+
+Factoins
+
+Envoys
+
+Discord
+
+Crates
+
+Boss
+
+
+Thinhs Needs To Fix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
