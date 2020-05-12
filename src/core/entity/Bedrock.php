@@ -36,6 +36,7 @@ use pocketmine\level\Position;
 use pocketmine\utils\TextFormat;
 
 class() extends Bedrock {
+class() extends Obsidian {
 
     const STACK_TAG = "Stack";
 
