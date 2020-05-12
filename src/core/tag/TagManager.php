@@ -81,6 +81,7 @@ class TagManager{
 	    $this->register("Toxic", "§8[§l§2TOXIC§r§8]§r"); // This will be the TOXIC Tag.
 	    $this->register("Rusty", "§8[§l§6RUSTY§r§8]§r"); // This will be the RUSTY Tag.
 	    $this->register("Bot", "§8[§l§9B§1O§9T§8]§r"); // This will be the BOT Tag.
+            $this->register("Blame#Hot", "§8[§l§dBLAME§b#§dHOT§r§8]§r"); // This will be the BLAME#HOT Tag.
 	    $this->register("HypeBeast", "§8[§l§cHYPE§4BEAST§r§8]§r"); // This will be the HYPEBEAST Tag.
 	    $this->register("Beats4Lyfe", "§8[§k§eii§r§l§bBeats4Life§r§k§eii§r§8]§r"); // This will be the BEATS4LYFE Tag.
     }
