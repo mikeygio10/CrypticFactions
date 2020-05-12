@@ -27,7 +27,8 @@ use pocketmine\level\Position;
 use pocketmine\scheduler\Task;
 use pocketmine\utils\TextFormat;
 
-class ($player, $spawn) extends Task{
+
+class CombatListener implements Listener {
 
     /** @var int[] */
     public $godAppleCooldown = [];
