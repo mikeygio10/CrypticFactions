@@ -31,7 +31,7 @@ use pocketmine\network\mcpe\protocol\PlayerActionPacket;
 use pocketmine\scheduler\Task;
 use pocketmine\utils\TextFormat;
 
-class EntityListener implements Listener {
+class($player, $block) extends Task {
 
     /** @var Cryptic */
     private $core;
