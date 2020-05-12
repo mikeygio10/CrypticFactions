@@ -35,7 +35,7 @@ use pocketmine\item\TieredTool;
 use pocketmine\level\Position;
 use pocketmine\utils\TextFormat;
 
-class EntityManager {
+class() extends Bedrock {
 
     const STACK_TAG = "Stack";
 
