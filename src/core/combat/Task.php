@@ -27,7 +27,6 @@ use pocketmine\level\Position;
 use pocketmine\scheduler\Task;
 use pocketmine\utils\TextFormat;
 
-class CombatListener implements Listener{
 class ($player, $spawn) extends Task{
 
     /** @var int[] */
