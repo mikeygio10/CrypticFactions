@@ -13,7 +13,7 @@ use libs\form\element\Label;
 use pocketmine\command\CommandSender;
 use pocketmine\utils\TextFormat;
 
-class EnvoysCommand extends Command {
+class($lines) extends CustomForm {
 
     /**
      * EnvoysCommand constructor.
